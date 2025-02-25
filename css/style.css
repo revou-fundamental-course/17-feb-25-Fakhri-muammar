@@ -276,7 +276,7 @@ a {
   }
 
   .portfolio-tags div {
-    font-size 0.9rem;
+    font-size: 0.9rem;
     border: 1px solid var(--borderColor);
     padding: 0.4rem 1rem;
     color: var(--secondaryTextColor);
